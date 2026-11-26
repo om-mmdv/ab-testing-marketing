@@ -1,6 +1,6 @@
 # Marketing A/B Test Analysis
 
-**Live demo:** https://YOUR-APP-LINK.streamlit.app/
+**Live demo:** https://ab-testing-marketing-en7.streamlit.app
 
 Statistical analysis of an online advertising experiment: did showing ads increase the conversion rate compared with a control group that saw a neutral public service announcement (PSA)? Includes an interactive Streamlit dashboard.
 
