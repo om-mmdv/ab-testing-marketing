@@ -1,0 +1,75 @@
+segment,value,group,users,conversions
+Ads seen,1-5,ad,169962,427
+Ads seen,1-5,psa,7861,22
+Ads seen,6-10,ad,79537,386
+Ads seen,6-10,psa,3415,23
+Ads seen,11-20,ad,123334,1036
+Ads seen,11-20,psa,4150,34
+Ads seen,21-50,ad,125541,3660
+Ads seen,21-50,psa,5235,114
+Ads seen,51-100,ad,44149,5135
+Ads seen,51-100,psa,1853,107
+Ads seen,100+,ad,22054,3779
+Ads seen,100+,psa,1010,120
+Weekday,Friday,ad,88805,1995
+Weekday,Friday,psa,3803,62
+Weekday,Monday,ad,83571,2778
+Weekday,Monday,psa,3502,79
+Weekday,Saturday,ad,78802,1679
+Weekday,Saturday,psa,2858,40
+Weekday,Sunday,ad,82332,2027
+Weekday,Sunday,psa,3059,63
+Weekday,Thursday,ad,79077,1711
+Weekday,Thursday,psa,3905,79
+Weekday,Tuesday,ad,74572,2270
+Weekday,Tuesday,psa,2907,42
+Weekday,Wednesday,ad,77418,1963
+Weekday,Wednesday,psa,3490,55
+Hour,0,ad,5309,102
+Hour,0,psa,227,0
+Hour,1,ad,4615,62
+Hour,1,psa,187,0
+Hour,2,ad,5152,39
+Hour,2,psa,181,0
+Hour,3,ad,2590,27
+Hour,3,psa,89,1
+Hour,4,ad,694,11
+Hour,4,psa,28,0
+Hour,5,ad,742,16
+Hour,5,psa,23,0
+Hour,6,ad,1985,46
+Hour,6,psa,83,0
+Hour,7,ad,6168,114
+Hour,7,psa,237,2
+Hour,8,ad,16968,337
+Hour,8,psa,659,7
+Hour,9,ad,29802,582
+Hour,9,psa,1202,13
+Hour,10,ad,37454,818
+Hour,10,psa,1485,20
+Hour,11,ad,44149,992
+Hour,11,psa,2061,30
+Hour,12,ad,45238,1092
+Hour,12,psa,2060,35
+Hour,13,ad,45485,1140
+Hour,13,psa,2170,36
+Hour,14,ad,43779,1251
+Hour,14,psa,1869,30
+Hour,15,ad,42855,1279
+Hour,15,psa,1828,46
+Hour,16,ad,35963,1111
+Hour,16,psa,1604,45
+Hour,17,ad,33605,959
+Hour,17,psa,1383,28
+Hour,18,ad,31052,853
+Hour,18,psa,1271,32
+Hour,19,ad,29169,782
+Hour,19,psa,1183,29
+Hour,20,ad,27846,843
+Hour,20,psa,1077,19
+Hour,21,ad,28895,843
+Hour,21,psa,1081,24
+Hour,22,ad,25515,675
+Hour,22,psa,917,15
+Hour,23,ad,19547,449
+Hour,23,psa,619,8
